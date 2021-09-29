@@ -1,0 +1,6 @@
+2021-09-29T03:58:55+00:00 CRITICAL Unclosed '{' on line 9 in C:\xampp\apps\wordpress\htdocs\wp-content\themes\twentytwentyone-child\functions.php on line 37
+
+2021-09-29T03:59:28+00:00 CRITICAL Cannot redeclare custom_code_after_single_product_summary() (previously declared in C:\xampp\apps\wordpress\htdocs\wp-content\plugins\code-snippets\php\snippet-ops.php(469) : eval()'d code:3) in C:\xampp\apps\wordpress\htdocs\wp-content\themes\twentytwentyone-child\functions.php on line 9
+
+2021-09-29T04:05:49+00:00 CRITICAL Cannot redeclare custom_code_after_single_product_summary() (previously declared in C:\xampp\apps\wordpress\htdocs\wp-content\plugins\code-snippets\php\snippet-ops.php(469) : eval()'d code:3) in C:\xampp\apps\wordpress\htdocs\wp-content\themes\twentytwentyone-child\functions.php on line 3
+
